@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".github/Preview.png" alt="Demonstração do Projeto" width="100%" />
+<img src=".github/preview.png" alt="Demonstração do Projeto" width="100%" />
 </p>
 
 ## 💻 projeto
@@ -7,8 +7,6 @@
 Esse é um projeto web responsivo de uma capsula do tempo apara exibir memorias em uma linha do tempo.
 
 ## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido durante o NLW da Rocket Seat com as seguintes tecnologias:
 
 - HTML
 - CSS
